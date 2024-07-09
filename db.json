@@ -1,0 +1,110 @@
+{
+  "blogData": [
+    {
+      "id": "34ac",
+      "username": "Dhruvisha Joshi",
+      "email": "joshidhruvisha@gmail.com",
+      "userPassword": "Dhruvi@123",
+      "dob": "2024-07-19",
+      "gender": "female"
+    },
+    {
+      "id": "a1dd",
+      "username": "abc",
+      "email": "abc@gmail.com",
+      "userPassword": "Abc@123",
+      "dob": "2024-07-25",
+      "gender": "female"
+    },
+    {
+      "id": "b19d",
+      "username": "xyz",
+      "email": "xyz@gmail.com",
+      "userPassword": "xyz@123",
+      "dob": "2024-07-12",
+      "gender": "male"
+    },
+    {
+      "id": "d3df",
+      "username": "pqr",
+      "email": "pqr@gmail.com",
+      "userPassword": "pqr@123",
+      "dob": "2024-07-26",
+      "gender": "male"
+    },
+    {
+      "id": "168e",
+      "username": "dhr",
+      "email": "dhr@gmail.com",
+      "userPassword": "dhr123@1",
+      "dob": "2024-07-25",
+      "gender": "male"
+    },
+    {
+      "id": "d9bd",
+      "username": "",
+      "email": "",
+      "userPassword": "",
+      "dob": "",
+      "gender": ""
+    }
+  ],
+  "blogFromData": [
+    {
+      "id": "111",
+      "title": "How to make Dalgonna Coffee",
+      "authorName": "Dhruvisha Joshi",
+      "blogType": "Tech",
+      "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9nGar__qpP8VnngQpZz7lNcAK1plzaAxMKA&s",
+      "description": "<p>Coffee, sugar and hot water is added into a bowl and whisked until it reaches creamy, velvety and stiff peak status. This whipped coffee is then dolloped onto your choice of cold or warm milk. Done</p><p><strong>INGREDIENTS, SERVES&nbsp;</strong></p><p>1 Tbsp instant coffee (I used Moccona vanilla praline and it’s super tasty!)</p><p>1 Tbsp sugar</p><p>1 Tbsp hot water</p><p>3/4 cup to 1 cup milk (your choice), chilled or heated</p><p>(optional) ice cubes</p>"
+    },
+    {
+      "id": "1262",
+      "title": "How to make Coffee",
+      "authorName": "Dhruvisha Joshi",
+      "blogType": "Food",
+      "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9nGar__qpP8VnngQpZz7lNcAK1plzaAxMKA&s",
+      "description": "<p>Coffee, sugar and hot water is added into a bowl and whisked until it reaches creamy, velvety and stiff peak status. This whipped coffee is then dolloped onto your choice of cold or warm milk. Done</p><p><strong>INGREDIENTS, SERVES&nbsp;</strong></p><p>1 Tbsp instant coffee (I used Moccona vanilla praline and it’s super tasty!)</p><p>1 Tbsp sugar</p><p>1 Tbsp hot water</p><p>3/4 cup to 1 cup milk (your choice), chilled or heated</p><p>(optional) ice cubes</p>"
+    },
+    {
+      "id": "771a",
+      "title": "How to make MYYYY Coffee",
+      "authorName": "Dhruvisha Joshi",
+      "blogType": "Food",
+      "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9nGar__qpP8VnngQpZz7lNcAK1plzaAxMKA&s",
+      "description": "<p>Coffee, sugar and hot water is added into a bowl and whisked until it reaches creamy, velvety and stiff peak status. This whipped coffee is then dolloped onto your choice of cold or warm milk. Done</p><p><strong>INGREDIENTS, SERVES&nbsp;</strong></p><p>1 Tbsp instant coffee (I used Moccona vanilla praline and it’s super tasty!)</p><p>1 Tbsp sugar</p><p>1 Tbsp hot water</p><p>3/4 cup to 1 cup milk (your choice), chilled or heated</p><p>(optional) ice cubes</p>"
+    },
+    {
+      "id": "ac24",
+      "title": "How to make HIIIIIII Coffee",
+      "authorName": "Dhruvisha Joshi",
+      "blogType": "Food",
+      "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9nGar__qpP8VnngQpZz7lNcAK1plzaAxMKA&s",
+      "description": "<p>Coffee, sugar and hot water is added into a bowl and whisked until it reaches creamy, velvety and stiff peak status. This whipped coffee is then dolloped onto your choice of cold or warm milk. Done</p><p><strong>INGREDIENTS, SERVES&nbsp;</strong></p><p>1 Tbsp instant coffee (I used Moccona vanilla praline and it’s super tasty!)</p><p>1 Tbsp sugar</p><p>1 Tbsp hot water</p><p>3/4 cup to 1 cup milk (your choice), chilled or heated</p><p>(optional) ice cubes</p>"
+    },
+    {
+      "id": "6812",
+      "title": "My blog",
+      "authorName": "hii",
+      "blogType": "Tech",
+      "imageLink": "https://imagekit.io/blog/content/images/2019/12/image-optimization.jpg",
+      "description": "<p>Hello fkjfjhffgiywtjfnkfefwrhnwrom CKEditor 5 in React!</p>"
+    },
+    {
+      "id": "e94e",
+      "title": "My Blog Data",
+      "authorName": "Dhruvi",
+      "blogType": "Tech",
+      "imageLink": "https://imagekit.io/blog/content/images/2019/12/image-optimization.jpg",
+      "description": "<p><strong>Hello this is from tech side</strong></p>"
+    },
+    {
+      "id": "687b",
+      "title": "What is Product Hunt?",
+      "authorName": "Dhruvi Joshi",
+      "blogType": "Marketing",
+      "imageLink": "https://cdn.prod.website-files.com/6349395c9738c5d053d3ceba/641c180ccdf01dbc11081b1b_What%20Is%20Product%20Hunt_.png",
+      "description": "<p>Product Hunt is tool to rank your developed products on PH website and to grow your business&nbsp;</p>"
+    }
+  ]
+}
